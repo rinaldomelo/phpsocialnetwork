@@ -10,5 +10,4 @@ if (mysqli_connect_errno()) {
     
     echo "Success";
 }
-
 ?>
